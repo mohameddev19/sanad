@@ -1,0 +1,20 @@
+{
+  "RootLayout": {
+    "title": "منصة خيرية",
+    "description": "دعم لأسر الشهداء والجرحى والأسرى."
+  },
+  "HomePage": {
+    "welcome": "أهلاً وسهلاً"
+  },
+  "InformationPortal": {
+    "title": "بوابة المعلومات",
+    "benefitsTitle": "المزايا والدعم المتاح",
+    "benefitsDescription": "استكشف أنواع الدعم المختلفة المتاحة من خلال منظمتنا. انقر على كل قسم لمعرفة المزيد عن البرنامج ومتطلبات الأهلية وكيفية التقديم.",
+    "eligibilityLabel": "الأهلية",
+    "applicationProcessLabel": "عملية التقديم",
+    "faqsTitle": "الأسئلة الشائعة",
+    "errorLoadingTitle": "خطأ في تحميل المعلومات",
+    "errorLoadingDefaultMessage": "فشل تحميل المحتوى. يرجى المحاولة مرة أخرى في وقت لاحق.",
+    "noDataMessage": "المعلومات غير متوفرة بعد لهذا القسم. يرجى التحقق مرة أخرى لاحقًا."
+  }
+} 

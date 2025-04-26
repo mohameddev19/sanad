@@ -1,0 +1,1 @@
+ALTER TABLE "forum_topics" ADD COLUMN "post_count" integer DEFAULT 0 NOT NULL;

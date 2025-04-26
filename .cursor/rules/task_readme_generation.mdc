@@ -1,0 +1,59 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# README Generation Rule for Tasks and Subtasks
+
+This rule defines the process for creating a `README.md` file that outlines project tasks and subtasks based on requirements and user prompts.
+
+## Process
+
+1.  **Analyze Requirements:**
+    *   Carefully read the provided project requirements document or user prompt detailing the project goals.
+    *   Identify the main high-level objectives or features.
+
+2.  **Define Tasks:**
+    *   Break down each high-level objective into actionable main tasks.
+    *   Each task should represent a significant piece of work.
+    *   Use clear and concise language for task descriptions.
+
+3.  **Define Subtasks:**
+    *   For each main task, identify smaller, manageable subtasks required to complete it.
+    *   Subtasks should be specific and granular.
+
+4.  **Format README.md:**
+    *   Create a `README.md` file in the project root (or other specified location).
+    *   Use markdown formatting.
+    *   Use a main heading for the project title (e.g., `# Project Title`).
+    *   Use a subheading for the task list (e.g., `## Tasks`).
+    *   List main tasks using numbered lists or headings (e.g., `### 1. Task One`).
+    *   List subtasks under each main task using nested bullet points or checkboxes (e.g., `- [ ] Subtask 1.1`).
+
+## Example README.md Structure
+
+```markdown
+# Project Title
+
+## Overview
+
+[Brief project description]
+
+## Tasks
+
+### 1. Main Task One
+- [ ] Subtask 1.1
+- [ ] Subtask 1.2
+
+### 2. Main Task Two
+- [ ] Subtask 2.1
+- [ ] Subtask 2.2
+- [ ] Subtask 2.3
+
+### 3. Main Task Three
+- [ ] Subtask 3.1
+```
+
+## Goal
+
+The goal is to produce a clear, organized `README.md` that effectively tracks project progress through tasks and subtasks derived directly from the initial requirements or user prompt. 

@@ -1,0 +1,20 @@
+{
+  "RootLayout": {
+    "title": "Charity Platform",
+    "description": "Support for families of martyrs, wounded, and prisoners."
+  },
+  "HomePage": {
+    "welcome": "Welcome"
+  },
+  "InformationPortal": {
+    "title": "Information Portal",
+    "benefitsTitle": "Available Benefits & Support",
+    "benefitsDescription": "Explore the different types of support available through our organization. Click on each section to learn more about the program, eligibility requirements, and how to apply.",
+    "eligibilityLabel": "Eligibility",
+    "applicationProcessLabel": "Application Process",
+    "faqsTitle": "Frequently Asked Questions (FAQ)",
+    "errorLoadingTitle": "Error Loading Information",
+    "errorLoadingDefaultMessage": "Failed to load content. Please try again later.",
+    "noDataMessage": "Information is not yet available for this section. Please check back later."
+  }
+} 
